@@ -3,7 +3,7 @@ package lab6;
 import java.util.ArrayList;
 import java.util.Collections;
 import java.util.List;
-import java.util.Scanner;
+import java.util.Scanner;     
 
 public class Q7 {
 
@@ -44,6 +44,5 @@ public class Q7 {
 				System.out.println(a[i]);
 			}
 		}
-
 	}
 }
